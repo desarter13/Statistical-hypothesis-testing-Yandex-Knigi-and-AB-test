@@ -47,7 +47,7 @@
 * z-статистика = 1,907, p-value = 0,0283 — рост конверсии статистически значим
 * Целевой эффект (**+3 п.п.**) не достигнут
 
-Полный ход анализа с кодом и выводами — в ноутбуке: [открыть в Google Colab](https://colab.research.google.com/drive/1GG1hfgOmYpSNmDBj1FbmthyT3-yG1xDr?usp=sharing)
+Полный ход анализа с кодом и выводами — в ноутбуке: [открыть в Google Colab](https://colab.research.google.com/drive/1GG1hfgOmYpSNmDBj1FbmthyT3-yG1xDr?usp=sharing) или [в репозитории](https://github.com/desarter13/-A-B--BitMotion-Kit/blob/08bc4806e5497045502267e1008afb53e78f0c05/statistical_analysis_project%20(1).ipynb)
 
 ---
 ### 🛠 Инструменты
